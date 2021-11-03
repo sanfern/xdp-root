@@ -1,3 +1,6 @@
+// Copyright Contributors to the L3AF Project.
+// SPDX-License-Identifier: GPL-2.0
+
 /* XDP root program */
 static const char *__doc__ =
         "  XDP: First program used to chain\n"
