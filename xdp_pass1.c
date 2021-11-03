@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-2.0
+
 /* Copyright (c) 2016 John Fastabend <john.r.fastabend@intel.com>
  *
  * This program is free software; you can redistribute it and/or

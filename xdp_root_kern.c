@@ -1,3 +1,6 @@
+// Copyright Contributors to the L3AF Project.
+// SPDX-License-Identifier: GPL-2.0
+
 #include <uapi/linux/bpf.h>
 #include "bpf_helpers.h"
 
